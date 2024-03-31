@@ -4,7 +4,7 @@ const chatContainer = document.querySelector(".chat-contianer");
 const themeButton = document.querySelector("#theme-btn");
 const deleteButton = document.querySelector("#delete");
 
-const API_KEY = "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"; 
+const API_KEY = ""; //Add your API Key
 const chatboxHeight = chatInput.scrollHeight;
 let userText = null;
 
